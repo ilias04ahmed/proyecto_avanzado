@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Es el primer avance de esta nueva aventura que vamos a emprender
 en el apasionante mundo del aprendizaje en git!!!
 (actualizacion para el avance 2) 
+=======
+este archivo es para generar un conflicto
+>>>>>>> master
